@@ -36,3 +36,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-narcis&" alt="andrea-narcis" /></p>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ANDREA-NARCIS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ANDREA-NARCIS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREA-NARCIS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ANDREA-NARCIS&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
